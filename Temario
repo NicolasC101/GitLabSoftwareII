@@ -29,5 +29,10 @@ c.	git tag
 7.	git Ignore
 8.	GitFlow
 9.	Pull Request
+<<<<<<< HEAD
 10.	"Prueba de cambio"
+11. 	"Prueba 2"
 
+=======
+10. XD
+>>>>>>> b9552f10e2568ccd81ed2ce70eedbddf6381a74c
